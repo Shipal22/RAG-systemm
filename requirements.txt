@@ -1,0 +1,12 @@
+streamlit
+pymupdf
+pillow
+pytesseract
+transformers
+torch
+sentence-transformers
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-core
+chromadb
